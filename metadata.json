@@ -1,0 +1,6 @@
+{
+  "name": "Campus Companion",
+  "description": "A comprehensive student-focused university companion app for courses, attendance, assignments, announcements, timetable, and student profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
